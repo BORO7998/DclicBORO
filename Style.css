@@ -20,7 +20,7 @@
     background-color: gainsboro;
     width: 100%;
 }
-.as{
+.row{
     position: relative;
     background-color: gainsboro;
 }
@@ -40,7 +40,17 @@
 }
 .p{
     position: relative;
-    left: 2400px;
+    left: 1200px;
     z-index: 1;
 
+}
+.nav-link{
+    font-size: 40px;
+
+}
+.navbar-brand{
+    font-size: 40px;
+}
+.btn{
+    font-size: 35px;
 }
